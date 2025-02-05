@@ -1,4 +1,4 @@
-<h2 align="left">Hello 😊My name is Joao Pedro and I'm a programming student, from Brazil</h2>
+<h2 align="left">Hello 😊My name is Joao Pedro and I'm a Full Stack Developer Junior, from Brazil</h2>
 
 ###
 
